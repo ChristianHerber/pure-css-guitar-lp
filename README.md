@@ -1,11 +1,12 @@
 # pure-css-guitar-lp
 Pure CSS Guitar
-  Motive:	Fun :)
+
+Motive:	Fun :)
   
-	Author: Christian Herber Santos
+Author: Christian Herber Santos
 	
-	E-mail: christianherbersantos@gmail.com
+E-mail: christianherbersantos@gmail.com
 	
-	Date:	06/2015
+Date:	06/2015
 	
-	Have fun also!
+Have fun also!
