@@ -1,0 +1,309 @@
+ /**
+  	Title:	Pure CSS Guitar LP
+  	Motive:	Fun :)
+	Author: Christian Herber Santos
+	E-mail: christianherbersantos@gmail.com
+	Date:	06/2015
+  */
+
+.guitar{
+	width: 800px;
+	height: 250px;
+	margin: 50px auto;
+	background: #fff;
+}
+.ponte {
+	width: 10px;
+	height: 55px;
+	background: #e1b882;
+	position: absolute;
+	margin: 88px 0 0 90px;
+}
+.a-ponte {
+  width: 3px;
+  height: 55px;
+  background: #D49A26;
+  position: absolute;
+  margin: 93px 0 0 117px;
+}
+.parafuso-1 {
+	width: 10px;
+	height: 10px;
+	background: #A37A44;
+}
+.parafuso-2 {
+	width: 10px;
+	height: 10px;
+	background: #A37A44;
+	margin-top: 45px;
+}
+.p{
+	width: 8px;
+	height: 8px;
+	border: 1px solid #D79D25;
+	border-radius: 50%;
+}
+.cap-1 {
+	width: 25px;
+	height: 45px;
+	background: #D5D5D5;
+	position: absolute;
+	margin: 96px 0 0 210px;
+	border-radius: 2px;
+	border: 3px solid #444;
+}
+.cap-2 {
+	width: 25px;
+	height: 45px;
+	background: #D5D5D5;
+	position: absolute;
+	margin: 96px 0 0 130px;
+	border-radius: 2px;
+	border: 3px solid #444;
+}
+
+.b1{
+	width: 240px;
+	height: 250px;
+	border-radius: 50%;
+	background: #000;
+	float: left;
+}
+.btn{
+	width: 10px;
+	height: 10px;
+	border-radius: 50%;
+	border: 2px solid rgba(255,255,255,0.2);
+	color: #222;
+	margin: 10px 0 0 60px;
+}
+.btn.bt-1 {
+margin: 175px 0 0 65px;
+position: absolute;
+}
+.btn.bt-2 {
+margin: 175px 0 0 105px;
+}
+.btn.bt-3 {
+margin: 10px 0 0 80px;
+position: absolute;
+}
+.btn.bt-4 {
+position: absolute;
+margin: 10px 0 0 120px;
+}
+.curva-cima {
+	width: 60px;
+	height: 50px;
+	background: #fff;
+	border-radius: 50%;
+	float: left;
+	margin: 0 0 0 -39px;
+	z-index: 99;
+	position: relative;
+}
+.curva-cima-2 {
+	width: 120px;
+	height: 120px;
+	position: absolute;
+	background: #000;
+	border-radius: 50%;
+	margin: 20px 0px 0 238px;
+	border-bottom-right-radius: 0;
+}
+.curva-baixo {
+	width: 60px;
+	height: 50px;
+	background: #fff;
+	border-radius: 50%;
+	float: left;
+	margin: 199px 0 0 -109px;
+	z-index: 99;
+	position: relative;
+}
+.curva-baixo-2 {
+	width: 120px;
+	height: 120px;
+	position: absolute;
+	background: #000000;
+	border-radius: 50%;
+	margin: 110px 0px 0 237px;
+	border-top-right-radius: 0;
+}
+.curva-baixo-3 {
+	width: 100px;
+	height: 80px;
+	background: #fff;
+	position: absolute;
+	border-radius: 50%;
+	margin: 136px 0 0 288px;
+}
+.b2{
+	width: 110px;
+	height: 180px;
+	/*border-radius: 50%;*/
+	background: #000;
+	float: left;
+	margin: 36px 0 0 -62px;
+}
+.guitar-neck{
+	width: 370px;
+	height: 40px;
+	background: #2f282f;
+	margin: 100px 0 0 -56px;
+	float: left;
+	position: relative;
+	z-index: 99;
+	border: 1px solid #f9f9f9;
+	border-right: 3px solid #f9f9f9;
+}
+.n{
+	width: 1px;
+	height: 40px;
+	float: left;
+	margin: 0 17px;
+	background: #928e8d;
+}
+.corda{
+  background: #BDBDBD;
+  width: 524px;
+  height: 1px;
+  position: absolute;
+  margin: 0 0 0 -154px;
+}
+.corda-1{margin-top:34px;}
+.corda-2{margin-top:28px;}
+.corda-3{margin-top:23px;}
+.corda-4{margin-top:17px;}
+.corda-5{margin-top:11px;}
+.corda-6{margin-top:5px;}
+
+.bordao {
+	width: 15px;
+	height: 20px;
+	background: #fff;
+	position: absolute;
+}
+.bordao-3{
+	margin: 9px 0 0 272px;
+}
+.bordao-5{
+	margin: 9px 0 0 202px;
+}
+.bordao-12{
+	margin: 9px 0 0 62px;
+}
+.guitar-head{
+	margin: 0 0 0 5px;
+}
+.h1 {
+	width: 90px;
+	height: 65px;
+	background: #000;
+	position: absolute;
+	margin: 87px 0 0 619px;
+	border-top-right-radius: 50%;
+	border-bottom-right-radius: 50%;
+}
+.tarracha {
+  width: 12px;
+  height: 12px;
+  background-color: #ABABAB;
+  border-radius: 50%;
+  position: absolute;
+  z-index: 99;
+  border-left: 1px solid #696969;
+}
+.name{
+	color: #fff;
+}
+.name {
+  position: absolute;
+  z-index: 999;
+  margin: 11px 0 0 24px;
+  -webkit-transform: rotate(21deg);
+  -moz-transform: rotate(21deg);
+  -ms-transform: rotate(21deg);
+  -o-transform: rotate(21deg);
+  transform: rotate(21deg);
+  font-family: 'Dancing Script', cursive;
+  color: antiquewhite;
+}
+.escudo {
+  position: absolute;
+  z-index: 99;
+  height: 20px;
+  background-color: #101010;
+  width: 35px;
+  margin: 22px 0 0 3px;
+  border-radius: 0px 10px 10px 0px;
+  border: 1px solid #fff;
+}
+.t1{margin: -7px 0px 0 34px;}
+.t2{margin: 0px 0px 0 52px;}
+.t3{margin: 8px 0 0 70px;}
+.t4{margin: 61px 0 0 34px;}
+.t5{margin: 53px 0 0 52px;}
+.t6{margin: 46px 0 0 70px;}
+.t-dwn{border-right: 1px solid #696969;}
+.corte-cima {
+	width: 45px;
+	height: 25px;
+	position: absolute;
+	background: white;
+	margin: 77px 0 0 593px;
+	-webkit-transform: rotate(-35deg);
+	z-index: 9;
+}
+.corte-cima-2 {
+	width: 80px;
+	height: 25px;
+	position: absolute;
+	background: #FFF;
+	margin: 75px 0 0 639px;
+	-webkit-transform: rotate(22deg);
+	z-index: 9;
+}
+.corte-baixo {
+	width: 45px;
+	height: 25px;
+	position: absolute;
+	background: #FFF;
+	margin: 137px 0 0 593px;
+	-webkit-transform: rotate(35deg);
+	z-index: 9;
+}
+.corte-baixo-2 {
+	width: 80px;
+	height: 25px;
+	position: absolute;
+	background: #FFF;
+	margin: 138px 0 0 642px;
+	-webkit-transform: rotate(-22deg);
+	z-index: 9;
+}
+.pino {
+	width: 20px;
+	height: 20px;
+	background: #151515;
+	border-radius: 50%;
+	margin: 15px 0 0 95px;
+	position: relative;
+	z-index: 9;
+	border: 1px solid #bdbdbd;
+}
+.pino-inner {
+	width: 10px;
+	height: 10px;
+	background: #DDC8AC;
+	border-radius: 50%;
+	margin: 5px auto;
+}
+.pino-btn {
+	width: 5px;
+	height: 5px;
+	background: #A37A44;
+	border-radius: 50%;
+	margin: 3px 0 0 3px;
+	position: absolute;
+}
