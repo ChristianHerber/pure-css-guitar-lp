@@ -253,6 +253,10 @@ margin: 10px 0 0 120px;
 	background: white;
 	margin: 77px 0 0 593px;
 	-webkit-transform: rotate(-35deg);
+	-moz-transform: rotate(-35deg);
+	-ms-transform: rotate(-35deg);
+	-o-transform: rotate(-35deg);
+	transform: rotate(-35deg);
 	z-index: 9;
 }
 .corte-cima-2 {
@@ -262,6 +266,10 @@ margin: 10px 0 0 120px;
 	background: #FFF;
 	margin: 75px 0 0 639px;
 	-webkit-transform: rotate(22deg);
+	-moz-transform: rotate(22deg);
+	-ms-transform: rotate(22deg);
+	-o-transform: rotate(22deg);
+	transform: rotate(22deg);
 	z-index: 9;
 }
 .corte-baixo {
@@ -271,6 +279,10 @@ margin: 10px 0 0 120px;
 	background: #FFF;
 	margin: 137px 0 0 593px;
 	-webkit-transform: rotate(35deg);
+	-moz-transform: rotate(35deg);
+	-ms-transform: rotate(35deg);
+	-o-transform: rotate(35deg);
+	transform: rotate(35deg);
 	z-index: 9;
 }
 .corte-baixo-2 {
@@ -280,6 +292,10 @@ margin: 10px 0 0 120px;
 	background: #FFF;
 	margin: 138px 0 0 642px;
 	-webkit-transform: rotate(-22deg);
+	-moz-transform: rotate(-22deg);
+	-ms-transform: rotate(-22deg);
+	-o-transform: rotate(-22deg);
+	transform: rotate(-22deg);
 	z-index: 9;
 }
 .pino {
